@@ -1,4 +1,4 @@
-FROM elixir:1.5.2
+FROM elixir:1.6.3
 
 # Docker file to create a build server
 # Reference: https://github.com/appdojolabs/myapp/blob/master/docker/Dockerfile
